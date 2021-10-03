@@ -10,7 +10,6 @@ function calcAge(birthYear) {
     printAge();
     return age;
 }
-
 const firstName = 'Jonas';
 calcAge(1991);
 //console.log("Age is ", calcAge(1991));

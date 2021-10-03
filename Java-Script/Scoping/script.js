@@ -1,2 +1,2 @@
 i = 10;
-console.log("Value of i is ", i);
+console.log("\n\nValue of i is ", i);
